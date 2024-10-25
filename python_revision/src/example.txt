@@ -1,0 +1,16 @@
+
+**Note:** This example is simplified and doesn't cover all the features of the `pytorrent` package. You may need to add additional
+code to handle errors, manage the torrent's progress, or interact with the client in more complex ways.
+
+Some possible use cases for this script include:
+
+* Sharing files with others over a network
+* Creating a simple P2P application using Python
+* Testing and debugging the `pytorrent` package
+
+Keep in mind that sharing files with others using P2P can be complex and may involve issues like copyright infringement, bandwidth
+consumption, or security risks. Make sure to use this script responsibly and follow all applicable laws and regulations.
+
+Do you have any questions about this example code?
+
+>>> how to disable gil in python3.13
