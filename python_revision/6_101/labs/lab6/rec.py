@@ -135,7 +135,7 @@ def ll_elements(ll):
     yield first(ll)
     yield from ll_elements(rest(ll))
 
-
+#todo
 def ll_plus(ll1, ll2):
     """
     return the concatenation of two linked lists
